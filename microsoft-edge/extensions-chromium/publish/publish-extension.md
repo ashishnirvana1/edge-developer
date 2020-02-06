@@ -8,6 +8,8 @@ ms.topic: article
 ms.prod: microsoft-edge-chromium
 keywords: edge-chromium, extensions development, browser extensions, addons, partner center, developer
 ---
+[!INCLUDE [version-note](includes/version-info-microsoft-edge-chromium.md)]  
+
 
 # Publish An Extension  
 
